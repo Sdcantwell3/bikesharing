@@ -31,8 +31,8 @@ The Final tableau story can be found at:
 
 
 Doing the visualization definitely helped get an idea of how the bike sharing program is working in New York.
-- It would be interesting to see trip distance as well as duration to determine if the structure of the city is adding to the useage of this program.
-- It would also be interesting to see some information on the economic breakdown of the substriber.
+- It would be ipmortant to determine if trip distance was a big driver for usage given the differences in Des Moine and New York.
+- It would also be important to determine if economic and structural differences (income, commute distance, and public transit options) in the two cities would increase or decrease ridership.
 
 
 
