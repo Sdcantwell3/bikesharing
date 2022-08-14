@@ -30,11 +30,12 @@ The next charts shows the distribution of riders by trip duration.  First as a t
 ## Summary
 The Final tableau story can be found at:
 
-https://public.tableau.com/app/profile/stephen7679/viz/BikeSharingDeck/NYCBikeSharing?publish=yes
+https://public.tableau.com/app/profile/stephen7679/viz/BikeSharingDeck/NYCBikeSharing#1
 
-Doing the visualization definitely helped get an idea of how the bike sharing program is working in New York.
-- It would be ipmortant to determine if trip distance was a big driver for usage given the differences in Des Moine and New York.
-- It would also be important to determine if economic and structural differences (income, commute distance, and public transit options) in the two cities would increase or decrease ridership.
+Doing the visualization gave us a good look at how the bike sharing program is working in New York. For New York it is safe to state that Male subscribers are contributing more then any other group that was compared.
+- With more time I would add a visualization with trip distance by gender and day of the week.
+- It would also be nice to see a visualization that showed economic and structural differences (income for subscibers, commute distance, and public transit options) between the two cities.
+- A comparison visualization of Des Moines and New York by gender would be helpful in detemining if it is a good idea to move forward with the program in Des Moines.
 
 
 
