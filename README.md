@@ -29,6 +29,7 @@ The next charts shows the distribution of riders by trip duration.  First as a t
 
 ## Summary
 The Final tableau story can be found at:
+
 https://public.tableau.com/app/profile/stephen7679/viz/BikeSharingDeck/NYCBikeSharing?publish=yes
 
 Doing the visualization definitely helped get an idea of how the bike sharing program is working in New York.
