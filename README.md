@@ -8,7 +8,8 @@ For my research I used data from the month of August 2019.  I picked August beca
 From my data it appeared that the busiest times of the day for riding were in the early morning and evening. The chart below illustrates this point quite clearly. 
 ![Ride_by_Hour](https://user-images.githubusercontent.com/104606589/184522288-6ef61f05-6694-4e37-b126-bc83fe874471.png)
 ### Demographic Breakdown
-The following charts show the break down of trips by Gender, time of day, and day of week.  It seems that Female ridership is more concentrated on the weekends, and the Male and Uknown seem to have higher levels of riding MOnday through Friday. 
+The following charts show the break down of trips by Gender, time of day, and day of week.  It seems that Female ridership is more concentrated on the weekends, and the Male and Uknown seem to have higher levels of riding Monday through Friday. 
+
 ![Trips_by_Hour_Female](https://user-images.githubusercontent.com/104606589/184522457-e2ad0438-dc3d-4195-b486-1fc343eddeaa.png)
 ![Trips_by_Hour_Male](https://user-images.githubusercontent.com/104606589/184522461-be49f025-b0e0-4d57-b28f-8996c8ea0d7a.png)
 ![Trips_by_Hour_Unknown](https://user-images.githubusercontent.com/104606589/184522463-c33c8d03-03a0-4488-bf97-1bd34d55d38d.png)
@@ -28,7 +29,7 @@ The next charts shows the distribution of riders by trip duration.  First as a t
 
 ## Summary
 The Final tableau story can be found at:
-
+https://public.tableau.com/app/profile/stephen7679/viz/BikeSharingDeck/NYCBikeSharing?publish=yes
 
 Doing the visualization definitely helped get an idea of how the bike sharing program is working in New York.
 - It would be ipmortant to determine if trip distance was a big driver for usage given the differences in Des Moine and New York.
